@@ -1,0 +1,82 @@
+app/src/sites.mjs
+  s_a5a2d5cd4d114e::t_1428b1873ad8c1 24-25,27-28,30,38,40,43-45,61
+  s_a5a2d5cd4d114e::t_28ef2ad9aa95a2 1,5-6,20-23,26,29,31-32,39,41-42
+  s_a5a2d5cd4d114e::t_d86e9dc4b12a4c 2-4,12,18-19
+app/Dockerfile.dockerignore
+  s_a5a2d5cd4d114e::t_c43cfe4f069a17 1-8
+app/src/dataforseo.mjs
+  s_a5a2d5cd4d114e::t_3435a0f3056c12 23-27,36-37,52-54,60-69,134-136
+  s_a5a2d5cd4d114e::t_3c0e7f09b8c369 1-22,28-35,38-51,55-59,70-133,137-143
+app/test/plans.test.mjs
+  s_a5a2d5cd4d114e::t_062627196123f7 10,14-17,21-29,58-62,113,121
+app/src/db.mjs
+  s_a5a2d5cd4d114e::t_d86e9dc4b12a4c 80-83,432-440,445-453,466-467
+  s_a5a2d5cd4d114e::t_9468ab4d3fd12c 290
+  s_a5a2d5cd4d114e::t_5b0e620426884b 58-65,69,73,85-87,171,175,235-236,363-364,369-371,374-383,387-388,390,399,402-403,405,628,630,632,638-642
+  s_a5a2d5cd4d114e::t_c8007417f3da28 237,365-368,372-373
+  s_a5a2d5cd4d114e::t_3435a0f3056c12 441-444,643
+app/test/extension.test.mjs
+  s_a5a2d5cd4d114e::t_828f57d7e2ac11 1-60
+  s_a5a2d5cd4d114e::t_478553b94ec796 61-82
+app/src/pages.mjs
+  s_a5a2d5cd4d114e::t_89d6466c8d9e28 121-122
+  s_a5a2d5cd4d114e::t_b267badd097566 287,294-295,302-306,576-578
+  s_a5a2d5cd4d114e::t_8db297546cea09 2,179,196-199,260,282-284,286,290-293,296,300-301,307-324,353,387
+  s_a5a2d5cd4d114e::t_cd40d7f93351a0 288-289
+  s_a5a2d5cd4d114e::t_bbafc4828b3408 454,502-505,510,513-520,527-528,544,551,575,579-583,589,591
+app/deploy/env.example
+  s_a5a2d5cd4d114e::t_b267badd097566 18-21
+  s_a5a2d5cd4d114e::t_6f23079bf8ced0 15,17
+app/src/server.mjs
+  s_a5a2d5cd4d114e::t_3435a0f3056c12 67,762
+  s_a5a2d5cd4d114e::t_be5690f1ffec86 379-381
+  s_a5a2d5cd4d114e::t_b267badd097566 903
+  s_a5a2d5cd4d114e::t_cd40d7f93351a0 904-906
+  s_a5a2d5cd4d114e::t_90792028a3c0da 14,24-27,47,68,142-146,153,269,363-371,377-378,393,395-396,403-421,477,545,567,603-604,682,695-701,707,738-761,763-800,802-803,806,847-848,860
+app/src/sources.mjs
+  s_a5a2d5cd4d114e::t_dff96a0b84c3ef 6-7,9-41,43-44,46-50
+  s_a5a2d5cd4d114e::t_3435a0f3056c12 1-5,8,42,45
+app/src/billing.mjs
+  s_a5a2d5cd4d114e::t_96bde62ae86cb7 1,7,12,15,17,26,31,39,43,46-52,77,86,103
+  s_a5a2d5cd4d114e::t_93bf086b410f0c 2-3,25
+  s_a5a2d5cd4d114e::t_d86e9dc4b12a4c 13-14,16,27-28,30
+app/src/collect.mjs
+  s_a5a2d5cd4d114e::t_6f23079bf8ced0 9,100-101
+  s_a5a2d5cd4d114e::t_93bf086b410f0c 1-2,107-115,123,148-160,168,178
+  s_a5a2d5cd4d114e::t_9be8068f5ddd79 37-38
+  s_a5a2d5cd4d114e::t_3435a0f3056c12 96-98,102-104,118-122,126-141,163,170-177,179,181,187-217,220-222,230-233
+  s_a5a2d5cd4d114e::t_97a59cd1e8e5e0 99
+app/test/ingest.test.mjs
+  s_a5a2d5cd4d114e::t_cb4c9b34fed43c 13-15,80,84,87,90-92,98-99,103,108-123,130-148,155-159,161-167,172,175,177
+  s_a5a2d5cd4d114e::t_062627196123f7 124-129,149-154
+app/src/demo.mjs
+  s_a5a2d5cd4d114e::t_ecf1d43b6e8fe1 1,112,114-115,118-119,122-123,126-127,129,156,159,171,175-180,184,193-194,196-198,208-211,223,231,236,240,262,290,332,339
+app/test/dataforseo.test.mjs
+  s_a5a2d5cd4d114e::t_f5f6096ed6b53d 36-43,70-77,92-97,99-102,115-125,127-129,132-136,144-146,155-162,164-167
+  s_a5a2d5cd4d114e::t_6d1fd117a5df01 1-35,44-69,78-91,98,103-114,126,130-131,137-143,147-154,163,168
+app/test/helpers.mjs
+  s_a5a2d5cd4d114e::t_be5690f1ffec86 7
+app/package.json
+  s_a5a2d5cd4d114e::t_bdf1d9cfc31128 6-9
+app/Dockerfile
+  s_a5a2d5cd4d114e::t_4a3d97ee95cd1d 2-3,6-7,14-19,23
+app/src/config.mjs
+  s_a5a2d5cd4d114e::t_d86e9dc4b12a4c 51-57,59
+  s_a5a2d5cd4d114e::t_96bde62ae86cb7 42-43
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "6fbe493207ef8c1d94226895ce835d28beec1ee9",
+  "prompts": {},
+  "sessions": {
+    "s_a5a2d5cd4d114e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b3bfa686-097c-410e-9637-99849f27835f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
