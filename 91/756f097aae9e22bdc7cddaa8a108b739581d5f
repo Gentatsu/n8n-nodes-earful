@@ -1,0 +1,39 @@
+app/src/pages.mjs
+  s_a5a2d5cd4d114e::t_ec2f777f775c01 369,623,675,757-759,1302
+  s_a5a2d5cd4d114e::t_609228ade9354c 819,951
+app/openapi.json
+  s_a5a2d5cd4d114e::t_b7908d33d853dd 166-168,177,308-310,319,4881,6412,8003-8004
+  s_a5a2d5cd4d114e::t_781a3ae36ed9a2 1832
+app/src/requests.mjs
+  s_a5a2d5cd4d114e::t_ec2f777f775c01 213-216,220
+app/src/config.mjs
+  s_a5a2d5cd4d114e::t_7c62010aa78da7 46-47
+app/src/apps.mjs
+  s_a5a2d5cd4d114e::t_ec2f777f775c01 62
+app/test/plans.test.mjs
+  s_a5a2d5cd4d114e::t_34f190ed95a59a 17-18,22,28-33,36,39-40,42,92,94
+app/test/addons.test.mjs
+  s_a5a2d5cd4d114e::t_7c40911cec4fcb 8,62-65,203,208
+app/src/db.mjs
+  s_a5a2d5cd4d114e::t_7c62010aa78da7 614
+app/src/server.mjs
+  s_a5a2d5cd4d114e::t_ec2f777f775c01 399,1000,1530,1578
+app/src/billing.mjs
+  s_a5a2d5cd4d114e::t_db25cc94d0e4ed 1-4,30-31,42-44,51-53,55,59,61,66-69
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "91756f097aae9e22bdc7cddaa8a108b739581d5f",
+  "prompts": {},
+  "sessions": {
+    "s_a5a2d5cd4d114e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b3bfa686-097c-410e-9637-99849f27835f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
