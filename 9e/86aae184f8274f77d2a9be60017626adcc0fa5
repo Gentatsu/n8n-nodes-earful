@@ -1,0 +1,21 @@
+HANDOFF.md
+  s_a5a2d5cd4d114e::t_a33442ef0ae6f0 75-88,90-93
+app/deploy/env.example
+  s_a5a2d5cd4d114e::t_ea1b18dd7d107e 22,24-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "9e86aae184f8274f77d2a9be60017626adcc0fa5",
+  "prompts": {},
+  "sessions": {
+    "s_a5a2d5cd4d114e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b3bfa686-097c-410e-9637-99849f27835f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
