@@ -1,0 +1,116 @@
+app/test/apis.test.mjs
+  s_a5a2d5cd4d114e::t_e8f6cc4f0a0edb 1-9,15-20,44-48,56-59,68-77,83-93,102-108,113-122
+  s_a5a2d5cd4d114e::t_f025e8dae1a8c4 10-14,21-43,49-55,60-67,78-82,94-101,109-112
+app/src/alerts.mjs
+  s_a5a2d5cd4d114e::t_f025e8dae1a8c4 51-55
+  s_a5a2d5cd4d114e::t_d6a16ba63ac9bc 1-50,56-109
+app/deploy/update.sh
+  s_a5a2d5cd4d114e::t_161ba93d15ea1a 1-13
+app/src/server.mjs
+  s_a5a2d5cd4d114e::t_51b15836cbfeb3 1-6,19-162,165-170,174-190,193-203,209-253,263-288,293-310,313-314,321-340,345-362,367,373-393,397-399,402-404,407-433,438-471,482-497,501-518,520-537,541,546-557,561-574,580-642,651-712,716-741,748-763,773-789,793-811
+  s_a5a2d5cd4d114e::t_f025e8dae1a8c4 7-18,163-164,171-173,191-192,204-208,254-262,289-292,311-312,315-320,341-344,363-366,368-372,394-396,400-401,405-406,434-437,472-481,498-500,538-540,542-545,558-560,575-579,643-650,713-715,764-772,790-792
+  s_a5a2d5cd4d114e::t_7da9b3418161b8 519,742-747
+app/public/tokens.css
+  s_a5a2d5cd4d114e::t_7724330962daec 1-62
+app/src/http.mjs
+  s_a5a2d5cd4d114e::t_ed4a1d76cdf360 1-101
+app/src/db.mjs
+  s_a5a2d5cd4d114e::t_f025e8dae1a8c4 264-275,322-323,384-385,498-499,536-537,541-542,561-566,571-580
+  s_a5a2d5cd4d114e::t_6b42e30e3f93f1 1-263,276-321,324-383,386-497,500-535,538-540,543-560,567-570,581-589
+app/src/config.mjs
+  s_a5a2d5cd4d114e::t_61e4fd085bfa37 1-60
+app/test/ingest.test.mjs
+  s_a5a2d5cd4d114e::t_f025e8dae1a8c4 12-16,33-35,57-59
+  s_a5a2d5cd4d114e::t_4b294cb2083a2b 1-11,17-32,36-56,60-121
+app/.prettierrc
+  s_a5a2d5cd4d114e::t_b9a099d17976f0 1-4
+app/test/tenant.test.mjs
+  s_a5a2d5cd4d114e::t_0a5cda35739545 1-19,27-52,59-94,98-101,106-108
+  s_a5a2d5cd4d114e::t_f025e8dae1a8c4 20-26,53-58,102-105
+  s_a5a2d5cd4d114e::t_b23b016fcac0a9 95-97
+app/public/app.js
+  s_a5a2d5cd4d114e::t_ac0c4eb22880a3 1-24
+app/src/sites.mjs
+  s_a5a2d5cd4d114e::t_7955d663fcf986 1
+  s_a5a2d5cd4d114e::t_f025e8dae1a8c4 6-13
+  s_a5a2d5cd4d114e::t_0c52d1ee59cd2c 2-5,14-52
+app/src/demo.mjs
+  s_a5a2d5cd4d114e::t_f025e8dae1a8c4 19-44,48-68,71-86,90-110,113-128,133-139,142-145,147-152,157-190,226-233,249-251,257-260,268-272,283-285,293-297,300-317
+  s_a5a2d5cd4d114e::t_48bd3d08e66abd 1-18,45-47,69-70,87-89,111-112,129-132,140-141,146,153-156,191-225,234-248,252-256,261-267,273-282,286-292,298-299,318-335
+app/deploy/env.example
+  s_a5a2d5cd4d114e::t_021470a8a73651 1-25
+app/src/reports.mjs
+  s_a5a2d5cd4d114e::t_f3423105d27185 1-41,57-72
+  s_a5a2d5cd4d114e::t_f025e8dae1a8c4 42-56
+app/.gitignore
+  s_a5a2d5cd4d114e::t_b9a099d17976f0 1-4
+app/src/safeurl.mjs
+  s_a5a2d5cd4d114e::t_acebb6fc3708ab 1-91
+app/package.json
+  s_a5a2d5cd4d114e::t_2fd4d18527062f 13-24
+  s_a5a2d5cd4d114e::t_d4ec1a77e5e90d 1-12,25-26
+app/.dockerignore
+  s_a5a2d5cd4d114e::t_b9a099d17976f0 1-6
+app/.prettierignore
+  s_a5a2d5cd4d114e::t_b9a099d17976f0 1
+  s_a5a2d5cd4d114e::t_736a554359f3b0 2-3
+app/src/pages.mjs
+  s_a5a2d5cd4d114e::t_d057aaaa4045a9 1,3-6,11-18,22-28,35-106,112-191,204-215,220-319,326-331,336-360,365-387,394-397,401-410,418-420,430-459,468-563
+  s_a5a2d5cd4d114e::t_bf3b625532cf76 2
+  s_a5a2d5cd4d114e::t_f025e8dae1a8c4 7-10,19-21,29-34,107-111,192-203,216-219,320-325,332-335,361-364,388-393,398-400,411-417,421-429,460-467
+app/src/billing.mjs
+  s_a5a2d5cd4d114e::t_7da9b3418161b8 85-86
+  s_a5a2d5cd4d114e::t_98c01ee0b52b49 1-84,87-117
+app/test/helpers.mjs
+  s_a5a2d5cd4d114e::t_f025e8dae1a8c4 39-43,71-80
+  s_a5a2d5cd4d114e::t_6fae2d4cbdb1c9 1-38,44-70,81-99
+app/src/apis.mjs
+  s_a5a2d5cd4d114e::t_f025e8dae1a8c4 90-91,177-183,190-193,220-221,250-254,283-284,385-399
+  s_a5a2d5cd4d114e::t_63fee70fb56b68 1-89,92-176,184-189,194-219,222-249,255-282,285-384,400
+app/eslint.config.mjs
+  s_a5a2d5cd4d114e::t_b9a099d17976f0 1-16
+app/test/replies-alerts.test.mjs
+  s_a5a2d5cd4d114e::t_a06c94db54ed42 1-16,31-32,41,47,52,61-65,81-86,93-131,137,143-145,150-154,159-166,180-182,192-193,198-217,227-228
+  s_a5a2d5cd4d114e::t_f025e8dae1a8c4 17-30,33-40,42-46,48-51,53-60,66-80,87-92,132-136,138-142,146-149,155-158,167-179,183-191,194-197,218-226
+app/deploy/docker-compose.yml
+  s_a5a2d5cd4d114e::t_be29f5e5bca4f5 1-27
+app/src/mailer.mjs
+  s_a5a2d5cd4d114e::t_d15a4f9737bd53 1-39
+app/src/ai.mjs
+  s_a5a2d5cd4d114e::t_1a81242c9996cb 1-23,28-43,46-67,70-79
+  s_a5a2d5cd4d114e::t_f025e8dae1a8c4 24-27,44-45,68-69
+app/Dockerfile
+  s_a5a2d5cd4d114e::t_e049c582a048ed 1-26
+app/test/plans.test.mjs
+  s_a5a2d5cd4d114e::t_f025e8dae1a8c4 36-40,63-70,86-106,121-124
+  s_a5a2d5cd4d114e::t_0f981b2ff19a5e 75,77-79
+  s_a5a2d5cd4d114e::t_e4b63497cc816c 1-35,41-62,71-74,76,80-85,107-120,125-126
+app/public/app.css
+  s_a5a2d5cd4d114e::t_a3c57cad546417 1
+  s_a5a2d5cd4d114e::t_f025e8dae1a8c4 2-352
+app/src/collect.mjs
+  s_a5a2d5cd4d114e::t_e58df319a645f5 1-115,119-180,187,196,199-223
+  s_a5a2d5cd4d114e::t_f025e8dae1a8c4 116-118,181-186,188-195,197-198
+app/src/crypto.mjs
+  s_a5a2d5cd4d114e::t_c83128ef5c4371 23-68
+  s_a5a2d5cd4d114e::t_1654b195d60a99 20-22
+  s_a5a2d5cd4d114e::t_86ef1d782304eb 69
+app/package-lock.json
+  s_a5a2d5cd4d114e::t_ea8ca5e37bad7a 1-1587
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "c089dac3e15b33be47c84b752fa3f499dbe6095f",
+  "prompts": {},
+  "sessions": {
+    "s_a5a2d5cd4d114e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b3bfa686-097c-410e-9637-99849f27835f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
