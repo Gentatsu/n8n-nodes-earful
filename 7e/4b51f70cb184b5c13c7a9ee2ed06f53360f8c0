@@ -1,0 +1,101 @@
+site/assets/credits.json
+  s_a5a2d5cd4d114e::t_9c567f2b521adb 2,4,8,17,23-24,26,30-31,35,37,39,45-92
+  s_a5a2d5cd4d114e::t_4a3f379ce354c3 1,3,5-7,9-16,18-22,25,27-29,32-34,36,38,40-44,93-94
+site/pricing.html
+  s_a5a2d5cd4d114e::t_89ae6342108509 1-5,8-19,22-30,32-35,38-40,45-52,54,57-62,64,70-71,73-76,90-96,98-105
+  s_a5a2d5cd4d114e::t_e702222ef6002c 6-7,20,36-37,42-43,56,65,67-68,77
+  s_a5a2d5cd4d114e::t_1148d2d76fecd5 21,31,41,44,53,55,63,66,69,72,87-88,97
+  s_a5a2d5cd4d114e::t_c5fc0773bcc896 78-86,89
+site/design/tokens.css
+  s_a5a2d5cd4d114e::t_c5fc0773bcc896 67,117,134
+  s_a5a2d5cd4d114e::t_55fe89c9caf593 1-66,69-87,89-116,118-133,135-139
+  s_a5a2d5cd4d114e::t_38c154e722b446 88
+  s_a5a2d5cd4d114e::t_345da78d1c486f 68
+site/guides/reply-to-google-app-store-play-reviews.html
+  s_a5a2d5cd4d114e::t_99949988e30173 59,61
+  s_a5a2d5cd4d114e::t_8bfc3bccaa3cd4 1-18,22-30,32-42,44-58,60,62-70,72-78
+  s_a5a2d5cd4d114e::t_36a3837bc2996c 43
+  s_a5a2d5cd4d114e::t_8f25f0682b5389 31
+  s_a5a2d5cd4d114e::t_d5278ea415b96d 71
+  s_a5a2d5cd4d114e::t_c5fc0773bcc896 19-21
+site/design/DESIGN.md
+  s_a5a2d5cd4d114e::t_0741bdfc19c41a 1-54
+site/css/site.css
+  s_a5a2d5cd4d114e::t_b3bb06906b81b4 222-224
+  s_a5a2d5cd4d114e::t_38c154e722b446 103-104,120,130,136,138,143,178,183-184,186,200-201,204,208,210,215,219,238,241-242,250,258,263,265,283,309,316,322,331-333,337
+  s_a5a2d5cd4d114e::t_c5fc0773bcc896 261-262,274-275
+  s_a5a2d5cd4d114e::t_72832f98866fae 303
+  s_a5a2d5cd4d114e::t_3fc543ece771c9 69,80,82
+  s_a5a2d5cd4d114e::t_a4e4a27e6b9fef 195,245
+  s_a5a2d5cd4d114e::t_e16d30776eda95 171
+  s_a5a2d5cd4d114e::t_5299b150892b10 348
+  s_a5a2d5cd4d114e::t_52106c702292ad 213
+  s_a5a2d5cd4d114e::t_1b29b8ecbf1986 1-68,70-79,81,83-102,105-119,121-129,131-135,137,139-142,144-170,172-177,179-182,185,187-194,196-199,202-203,205-207,209,211-212,214,216-218,220-221,225-237,239-240,243-244,246-249,251-253,257,259-260,264,266-273,276-282,284-302,304-308,310-315,317-321,323-330,334-336,338-347,349-363
+  s_a5a2d5cd4d114e::t_f5f6096ed6b53d 256
+  s_a5a2d5cd4d114e::t_3db7be5ac94cd0 254-255
+site/scripts/placeholders.mjs
+  s_a5a2d5cd4d114e::t_2b08f5474f4a67 1-21
+site/guides/reviewflowz-alternative.html
+  s_a5a2d5cd4d114e::t_8c9280c0ae5fb6 7,21,30-31,37,42-51,55,60,66,77-79
+  s_a5a2d5cd4d114e::t_a8c1e8e7982aed 1-6,8-18,22-29,32-36,38-41,52-54,56-59,65,67-69,74-76,80-89
+  s_a5a2d5cd4d114e::t_c5fc0773bcc896 19-20,61-64,70-73
+site/guides/trustpilot-review-alerts-slack.html
+  s_a5a2d5cd4d114e::t_2bb478a9e3c3d3 6,30,32,40,42,45-46,53,59,61-62
+  s_a5a2d5cd4d114e::t_c5fc0773bcc896 19-20,44,47
+  s_a5a2d5cd4d114e::t_dc05688baa55dc 1-5,7-18,21-29,31,33-39,41,43,48-52,54-58,60,63-69
+site/partials/header.html
+  s_a5a2d5cd4d114e::t_a01842bc46acba 1-10
+site/scripts/shots.mjs
+  s_a5a2d5cd4d114e::t_62ca19cc13cb61 1-15,17-19,22-32
+  s_a5a2d5cd4d114e::t_345da78d1c486f 20-21
+  s_a5a2d5cd4d114e::t_72832f98866fae 16
+site/img/favicon.svg
+  s_a5a2d5cd4d114e::t_f79a0510fbabfe 1
+site/index.html
+  s_a5a2d5cd4d114e::t_b3bb06906b81b4 269-270
+  s_a5a2d5cd4d114e::t_5879fc842b9ec2 6,26,45,49-50,58,62,65,72,75,86,88,106,125,130,132,134-137,144,146,148-149,169,174,176-181,184-191,195,197-198,208,218,221,224,233-234,237,241-242,261,264-266
+  s_a5a2d5cd4d114e::t_8cd0ac4f72ac13 1-5,8-9,11-25,27-31,33-40,42-44,47-48,51-57,59-61,63-64,67,69-71,73-74,77-85,87,89-105,107-124,126-129,131,133,138-143,145,147,150-168,170-173,175,182-183,192-194,199-207,209-212,215-217,222-223,225-232,235-236,239-240,243-245,247-259,262-263,267-268,271-279
+  s_a5a2d5cd4d114e::t_c8007417f3da28 41
+  s_a5a2d5cd4d114e::t_e702222ef6002c 7,10,32,46,66,68,76,196,213-214,219-220,238,246
+  s_a5a2d5cd4d114e::t_d67a2ef37216f5 260
+site/scripts/build.mjs
+  s_a5a2d5cd4d114e::t_6584a5852fcc47 1-61
+site/scripts/check.mjs
+  s_a5a2d5cd4d114e::t_852925e89b6abc 21-22
+  s_a5a2d5cd4d114e::t_d8f6643925f0fb 3
+  s_a5a2d5cd4d114e::t_91ff4c1bc20050 1-2,4-20,23-42
+site/js/site.js
+  s_a5a2d5cd4d114e::t_e702222ef6002c 25-26,40-41
+  s_a5a2d5cd4d114e::t_c01e132bd82bb4 1-21,23,29-33,48,52-57,59-77
+  s_a5a2d5cd4d114e::t_e0325a874bed97 24
+  s_a5a2d5cd4d114e::t_52e1edb0da8b75 22,27-28,34-39,42-47,49-51,58
+site/partials/footer.html
+  s_a5a2d5cd4d114e::t_9e436a10731b47 1-36
+site/SHOTS.md
+  s_a5a2d5cd4d114e::t_dccb76af455391 1-2,6,9-12,18,22-24
+  s_a5a2d5cd4d114e::t_4e9722ff91528c 3-5,7-8,13-17,19-21
+site/legal-draft.md
+  s_a5a2d5cd4d114e::t_1456eba17f8799 1-104
+site/.gitignore
+  s_a5a2d5cd4d114e::t_c4f864ba0bcab5 1-4
+site/package.json
+  s_a5a2d5cd4d114e::t_c4f864ba0bcab5 1-14
+site/package-lock.json
+  s_a5a2d5cd4d114e::t_a8947833e33dea 1-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "7e4b51f70cb184b5c13c7a9ee2ed06f53360f8c0",
+  "prompts": {},
+  "sessions": {
+    "s_a5a2d5cd4d114e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b3bfa686-097c-410e-9637-99849f27835f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
