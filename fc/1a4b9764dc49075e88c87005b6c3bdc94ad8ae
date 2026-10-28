@@ -1,0 +1,43 @@
+site/index.html
+  s_a5a2d5cd4d114e::t_34a2a3fb835353 132
+  s_a5a2d5cd4d114e::t_e5c66db7a0235e 58
+.github/workflows/app.yml
+  s_a5a2d5cd4d114e::t_b118f74ffc08a7 6,9
+site/pricing.html
+  s_a5a2d5cd4d114e::t_34a2a3fb835353 113
+extension/src/manifest.template.json
+  s_a5a2d5cd4d114e::t_718f8c64f869fa 5,95,101
+site/SHOTS.md
+  s_a5a2d5cd4d114e::t_34a2a3fb835353 21-22
+site/guides/reply-to-google-app-store-play-reviews.html
+  s_a5a2d5cd4d114e::t_34a2a3fb835353 61
+extension/scripts/store.mjs
+  s_a5a2d5cd4d114e::t_7850d44070fefa 29-30,38,50
+  s_a5a2d5cd4d114e::t_0c1a2bf51175f1 78-89
+  s_a5a2d5cd4d114e::t_87a70612dc098e 141-146
+  s_a5a2d5cd4d114e::t_990ee56a4bd9c3 147
+listing/LISTING.md
+  s_a5a2d5cd4d114e::t_6fc5dc5e6b8e4a 107
+  s_a5a2d5cd4d114e::t_9d457f60c06fe5 140-142
+  s_a5a2d5cd4d114e::t_cd8d08278e0e6b 12
+  s_a5a2d5cd4d114e::t_fabdeea970cbd0 16,18
+  s_a5a2d5cd4d114e::t_b4ce3d2e8e9353 29-37
+  s_a5a2d5cd4d114e::t_b6cc9d676378bc 99
+  s_a5a2d5cd4d114e::t_5bf37428309dab 5-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "fc1a4b9764dc49075e88c87005b6c3bdc94ad8ae",
+  "prompts": {},
+  "sessions": {
+    "s_a5a2d5cd4d114e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b3bfa686-097c-410e-9637-99849f27835f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
