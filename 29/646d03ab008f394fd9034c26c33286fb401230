@@ -1,0 +1,80 @@
+extension/src/content.js
+  s_a5a2d5cd4d114e::t_512ba6897dcd61 32
+  s_a5a2d5cd4d114e::t_dbed0e3e235bc8 4
+  s_a5a2d5cd4d114e::t_5de794a4cf2690 19-20,23
+extension/scripts/smoke.mjs
+  s_a5a2d5cd4d114e::t_64b78923777b23 41
+  s_a5a2d5cd4d114e::t_fac62c2fe6e1d3 28
+  s_a5a2d5cd4d114e::t_e0034dcc3221dc 14
+extension/test/core.test.js
+  s_a5a2d5cd4d114e::t_ef73d6857ff059 14
+  s_a5a2d5cd4d114e::t_1b072e33489053 33-90
+extension/src/popup.js
+  s_a5a2d5cd4d114e::t_faad3502eb2d27 57
+  s_a5a2d5cd4d114e::t_4267ce020caf63 32-35
+research/restaurant-sites.md
+  s_a5a2d5cd4d114e::t_4b0125ec47cc95 1-97
+extension/src/manifest.template.json
+  s_a5a2d5cd4d114e::t_8bcb56346f2221 29-31
+  s_a5a2d5cd4d114e::t_8c71ab8bdf832d 5,8
+  s_a5a2d5cd4d114e::t_9022d7f96d1d90 70-72
+  s_a5a2d5cd4d114e::t_3da0ef0396cb36 27-28,32-37
+  s_a5a2d5cd4d114e::t_fe4af45ef54278 68-69,73-78
+extension/src/lib/challenge.js
+  s_a5a2d5cd4d114e::t_6641fca8d7f342 1-14
+extension/src/lib/find-reviews.js
+  s_a5a2d5cd4d114e::t_4e37bf16473a17 10-12,14-17,21,25,27,33-36,41-42,49-51,53-54
+extension/src/sites/index.js
+  s_a5a2d5cd4d114e::t_93e1a21541dbf3 10
+  s_a5a2d5cd4d114e::t_0249fdd20f479a 4
+extension/fixtures/owner/restaurant-shapes.json
+  s_a5a2d5cd4d114e::t_6b93d64e7091b5 1-102
+extension/test/owner.test.js
+  s_a5a2d5cd4d114e::t_0dedbf232d8bfa 61
+  s_a5a2d5cd4d114e::t_0b8cb94f58acb3 3-4
+  s_a5a2d5cd4d114e::t_9e4deae74ef284 40-59
+  s_a5a2d5cd4d114e::t_12f6e813eaa0d4 60,62-67
+extension/src/lib/core.js
+  s_a5a2d5cd4d114e::t_8fcc6efe2c9080 151-152
+  s_a5a2d5cd4d114e::t_f9902253e89e87 138
+  s_a5a2d5cd4d114e::t_708bc324892998 190-192
+  s_a5a2d5cd4d114e::t_7be49fdd47c03a 87-122
+  s_a5a2d5cd4d114e::t_4a690db3f43f84 58
+  s_a5a2d5cd4d114e::t_8ddc7ede02b227 15
+  s_a5a2d5cd4d114e::t_036c660e8bc831 156-165,168,171-180
+  s_a5a2d5cd4d114e::t_9972d26479b852 10
+extension/src/sites/dashboards.js
+  s_a5a2d5cd4d114e::t_d65a0e58776cb7 1-25,27-58
+  s_a5a2d5cd4d114e::t_ee8068acbffed2 26
+extension/README.md
+  s_a5a2d5cd4d114e::t_0412d3ef269c86 77-78,82-83
+  s_a5a2d5cd4d114e::t_4878e68aa0e3bc 39-42
+  s_a5a2d5cd4d114e::t_8700a303db4219 30-35
+  s_a5a2d5cd4d114e::t_1729bd47b45dcd 53-61
+extension/src/popup.html
+  s_a5a2d5cd4d114e::t_f349e4b88c0270 37-38
+extension/test/manifest.test.js
+  s_a5a2d5cd4d114e::t_2b0cd103c48012 45,47-49
+  s_a5a2d5cd4d114e::t_0cf19a5b0d0af4 31-32,35
+  s_a5a2d5cd4d114e::t_4f0021fa01bfc6 13-18
+extension/src/background.js
+  s_a5a2d5cd4d114e::t_76df8686d18703 9-16,22-23,32-34
+actors/SITES.md
+  s_a5a2d5cd4d114e::t_fa5a48a7c6d46b 34-49
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "29646d03ab008f394fd9034c26c33286fb401230",
+  "prompts": {},
+  "sessions": {
+    "s_a5a2d5cd4d114e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b3bfa686-097c-410e-9637-99849f27835f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
