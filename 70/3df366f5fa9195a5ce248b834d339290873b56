@@ -1,0 +1,21 @@
+HANDOFF.md
+  s_a5a2d5cd4d114e::t_8e61980ee0efbe 85-89
+app/src/apidocs.mjs
+  s_a5a2d5cd4d114e::t_78d6c3bb216d96 153,156-167,170-171,205
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "703df366f5fa9195a5ce248b834d339290873b56",
+  "prompts": {},
+  "sessions": {
+    "s_a5a2d5cd4d114e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b3bfa686-097c-410e-9637-99849f27835f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
