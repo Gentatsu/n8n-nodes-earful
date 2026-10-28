@@ -1,0 +1,33 @@
+app/scripts/sdk.mjs
+  s_a5a2d5cd4d114e::t_06d77c10deae96 1-288
+  s_a5a2d5cd4d114e::t_74a87797075b4b 289-305
+app/test/sdk.test.mjs
+  s_a5a2d5cd4d114e::t_3161a620280724 1-74
+  s_a5a2d5cd4d114e::t_3c01731931df53 75-76
+.gitignore
+  s_a5a2d5cd4d114e::t_355df825ce7c0c 6
+app/package.json
+  s_a5a2d5cd4d114e::t_30903c095f4237 12-13
+sdk/python/earful.py
+  s_a5a2d5cd4d114e::t_57126947005d22 1-406
+sdk/typescript/earful.ts
+  s_a5a2d5cd4d114e::t_652f4b30a84c9d 1-1320
+sdk/typescript/package.json
+  s_a5a2d5cd4d114e::t_5c02c47abed379 1-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "5727cb0e6d2ce04bc9c77d72b087a1028faaa2ab",
+  "prompts": {},
+  "sessions": {
+    "s_a5a2d5cd4d114e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b3bfa686-097c-410e-9637-99849f27835f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
