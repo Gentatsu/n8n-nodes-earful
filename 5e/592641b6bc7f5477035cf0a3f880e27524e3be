@@ -1,0 +1,30 @@
+listing/OUTREACH.md
+  s_a5a2d5cd4d114e::t_fe40bd3202d6e6 1-200
+listing/DIRECTORIES.md
+  s_a5a2d5cd4d114e::t_3b634dc831f3cc 1-57
+extension/scripts/store.mjs
+  s_a5a2d5cd4d114e::t_625f519d5cabbe 1-133
+  s_a5a2d5cd4d114e::t_113c38333b005d 134-136
+listing/LISTING.md
+  s_a5a2d5cd4d114e::t_e875ac31c7d911 1-155
+extension/package.json
+  s_a5a2d5cd4d114e::t_a3afb78bac065e 14-15
+extension/src/manifest.template.json
+  s_a5a2d5cd4d114e::t_34045c2bc3caaf 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "5e592641b6bc7f5477035cf0a3f880e27524e3be",
+  "prompts": {},
+  "sessions": {
+    "s_a5a2d5cd4d114e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b3bfa686-097c-410e-9637-99849f27835f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
