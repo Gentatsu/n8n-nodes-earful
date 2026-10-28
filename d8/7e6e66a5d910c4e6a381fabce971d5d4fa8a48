@@ -1,0 +1,31 @@
+app/openapi.json
+  s_a5a2d5cd4d114e::t_669c0eae0d3bdd 7,83-84,2950,2952-2953,3051,3053-3054,3146,3148-3149,3280,3282-3283,3397,3400,3469,3472,3537,3539-3540,7366,8268
+app/test/openapi.test.mjs
+  s_a5a2d5cd4d114e::t_9673a330e11a65 64
+app/src/pages.mjs
+  s_a5a2d5cd4d114e::t_9673a330e11a65 853
+app/src/api.mjs
+  s_a5a2d5cd4d114e::t_9673a330e11a65 2-3,149,888,895,937,980,1099
+app/test/api.test.mjs
+  s_a5a2d5cd4d114e::t_9673a330e11a65 501
+app/src/apidocs.mjs
+  s_a5a2d5cd4d114e::t_814157b5a7d417 2,96,254-255,269,275,279,283-287,290,293-295,297-299,303,309
+app/src/server.mjs
+  s_a5a2d5cd4d114e::t_9673a330e11a65 1688,1721
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "d87e6e66a5d910c4e6a381fabce971d5d4fa8a48",
+  "prompts": {},
+  "sessions": {
+    "s_a5a2d5cd4d114e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b3bfa686-097c-410e-9637-99849f27835f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
