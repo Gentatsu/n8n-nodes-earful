@@ -1,0 +1,38 @@
+app/src/dataforseo.mjs
+  s_a5a2d5cd4d114e::t_959d6e085285ff 41-43
+  s_a5a2d5cd4d114e::t_623a68688ee26e 54-59
+  s_a5a2d5cd4d114e::t_1ed0f122bddd96 283-284
+  s_a5a2d5cd4d114e::t_30611767741492 79
+  s_a5a2d5cd4d114e::t_35e454096fb012 5-7,9,11-21
+  s_a5a2d5cd4d114e::t_df8999b392fb05 116-139
+  s_a5a2d5cd4d114e::t_ab0c3ffc47c673 193,201-205
+HANDOFF.md
+  s_a5a2d5cd4d114e::t_299e92dfa45d5f 48
+  s_a5a2d5cd4d114e::t_2db86b79b77434 44-47,49
+app/test/dataforseo.test.mjs
+  s_a5a2d5cd4d114e::t_73a04f003119a0 169-239
+  s_a5a2d5cd4d114e::t_52ccf5a6674a4b 148
+app/src/collect.mjs
+  s_a5a2d5cd4d114e::t_229c0e5a0b39e9 177-183,185-189
+  s_a5a2d5cd4d114e::t_91faff19284b87 200,202,207
+  s_a5a2d5cd4d114e::t_3162dcc7857ac9 127-131
+app/test/ingest.test.mjs
+  s_a5a2d5cd4d114e::t_096c7a26b5815a 159-172,180-208
+  s_a5a2d5cd4d114e::t_8f03084ee91d3a 173-179
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "806cba0eebe2f05ed57c3b1237de72656cee73e3",
+  "prompts": {},
+  "sessions": {
+    "s_a5a2d5cd4d114e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b3bfa686-097c-410e-9637-99849f27835f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
