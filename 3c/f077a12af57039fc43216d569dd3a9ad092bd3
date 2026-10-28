@@ -1,0 +1,21 @@
+STATUS.md
+  s_be6587048bf639::t_920a8d7bc92827 76-81
+listing/LISTING.md
+  s_be6587048bf639::t_1153373a597244 28-29,57-58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "3cf077a12af57039fc43216d569dd3a9ad092bd3",
+  "prompts": {},
+  "sessions": {
+    "s_be6587048bf639": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "agent-a509f4c0867e6609b",
+        "model": "unknown"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
