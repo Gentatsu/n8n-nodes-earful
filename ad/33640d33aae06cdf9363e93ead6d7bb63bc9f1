@@ -1,0 +1,31 @@
+integrations/zapier/test.js
+  s_a5a2d5cd4d114e::t_084cd33bb26c30 1-54
+integrations/zapier/index.js
+  s_a5a2d5cd4d114e::t_d5345aa0f26f51 1-181
+integrations/zapier/package.json
+  s_a5a2d5cd4d114e::t_8a9322f661c297 1-16
+integrations/make/earful.make.json
+  s_a5a2d5cd4d114e::t_78eb1cb6126b96 144-170
+  s_a5a2d5cd4d114e::t_daf62e35718e8b 1-107,112-114,116-143,171-173
+  s_a5a2d5cd4d114e::t_3fb39cc2195fa2 108-111,115
+listing/MARKETPLACES.md
+  s_a5a2d5cd4d114e::t_c7536b2f8c2c2e 1-22
+integrations/zapier/package-lock.json
+  s_a5a2d5cd4d114e::t_5af5bc0e256671 1-898
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "ad33640d33aae06cdf9363e93ead6d7bb63bc9f1",
+  "prompts": {},
+  "sessions": {
+    "s_a5a2d5cd4d114e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b3bfa686-097c-410e-9637-99849f27835f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
