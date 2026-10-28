@@ -1,0 +1,100 @@
+actors/reviews/stores.json
+  s_a5a2d5cd4d114e::t_fd0054c426b134 1-56
+actors/reviews/test/reviews-io.test.ts
+  s_a5a2d5cd4d114e::t_a9e3f1b3adfcaf 1-55
+actors/reviews/src/sites/yelp.ts
+  s_a5a2d5cd4d114e::t_874f02592c068c 1-94
+actors/reviews/src/sites/feefo.ts
+  s_a5a2d5cd4d114e::t_62e252d9738272 1-48
+actors/reviews/test/feefo.test.ts
+  s_a5a2d5cd4d114e::t_61d36d93d3da60 1-42
+actors/reviews/test/fixtures/google-play-starling.txt
+  s_a5a2d5cd4d114e::t_cd3bafc441a2ea 1-3
+actors/reviews/readmes/yelp-reviews.md
+  s_a5a2d5cd4d114e::t_2a5aeb62102ead 1-57
+actors/reviews/src/main.ts
+  s_a5a2d5cd4d114e::t_95c0207076196d 3
+  s_a5a2d5cd4d114e::t_8229fd83b87e0b 76
+  s_a5a2d5cd4d114e::t_27f4cf90db4ef1 1-2,4-53,61-75,77-95
+  s_a5a2d5cd4d114e::t_621816292a7b36 54-60
+actors/SCHEMA.md
+  s_a5a2d5cd4d114e::t_8c7f6783be2765 1-51
+actors/reviews/.dockerignore
+  s_a5a2d5cd4d114e::t_361eda53984f64 1-4
+actors/reviews/test/fixtures/reviews-io-bloom-and-wild.json
+  s_a5a2d5cd4d114e::t_345da78d1c486f 1-88
+actors/reviews/readmes/google-play-reviews.md
+  s_a5a2d5cd4d114e::t_d74ea1acbbaa22 1-54
+actors/reviews/test/fixtures/yelp-dishoom-feed.json
+  s_a5a2d5cd4d114e::t_05439be7e44498 1
+actors/.gitignore
+  s_a5a2d5cd4d114e::t_2fd7587dfa1ca6 1-4
+actors/package.json
+  s_a5a2d5cd4d114e::t_8664b1fb76546b 1-14
+actors/reviews/src/core.ts
+  s_a5a2d5cd4d114e::t_44d879eb3b6e50 3,138
+  s_a5a2d5cd4d114e::t_792ef16f885bc1 1-2,4-48,57-60,62-114,117,126-127,129-137,140-150
+  s_a5a2d5cd4d114e::t_001b38fd69e66e 139
+  s_a5a2d5cd4d114e::t_431bf7fc5f035b 115-116
+  s_a5a2d5cd4d114e::t_e995ae2af2a8f8 49-56,61
+  s_a5a2d5cd4d114e::t_7e2b6760fc8dfa 118-125,128
+actors/tsconfig.json
+  s_a5a2d5cd4d114e::t_a57fe3696cc783 1-15
+actors/reviews/package.json
+  s_a5a2d5cd4d114e::t_dc4c11a3ab5a3b 1-14
+actors/reviews/Dockerfile
+  s_a5a2d5cd4d114e::t_f0cb410779577c 1-5
+actors/reviews/readmes/app-store-reviews.md
+  s_a5a2d5cd4d114e::t_46a22bdae06779 1-54
+actors/reviews/src/sites/google-play.ts
+  s_a5a2d5cd4d114e::t_007f8b27d71215 1-62
+actors/reviews/test/yelp.test.ts
+  s_a5a2d5cd4d114e::t_6c810e45964e8c 1-61
+actors/reviews/readmes/earful-reviews.md
+  s_a5a2d5cd4d114e::t_54fd8b04e4cab1 1-3
+actors/reviews/test/fixtures/app-store-monzo.json
+  s_a5a2d5cd4d114e::t_e7fbcfa7b139be 1
+actors/SITES.md
+  s_a5a2d5cd4d114e::t_53400263f2375f 1-37
+actors/reviews/src/sites/app-store.ts
+  s_a5a2d5cd4d114e::t_c3a9230abc6dc0 1-47
+actors/reviews/readmes/reviewsio-reviews.md
+  s_a5a2d5cd4d114e::t_0b82174a957837 26-27,30-31,33,35-38
+  s_a5a2d5cd4d114e::t_1f4ce29765c0cd 1-25,28-29,32,34,39-52
+actors/reviews/src/sites/reviews-io.ts
+  s_a5a2d5cd4d114e::t_af94fdeb66f285 1-45
+actors/reviews/readmes/feefo-reviews.md
+  s_a5a2d5cd4d114e::t_0b82174a957837 29-34,36-42
+  s_a5a2d5cd4d114e::t_f1e6955b6015c8 1-28,35,43-55
+actors/reviews/test/app-store.test.ts
+  s_a5a2d5cd4d114e::t_b8f021e2a0a8f1 1-53,55
+  s_a5a2d5cd4d114e::t_78ce46d6e34acc 54
+actors/reviews/test/google-play.test.ts
+  s_a5a2d5cd4d114e::t_bce86a1ff4370c 1-36,38-40,42-54,56-58
+  s_a5a2d5cd4d114e::t_f2b4955c26259a 37,41,55
+actors/reviews/src/sites/index.ts
+  s_a5a2d5cd4d114e::t_44d879eb3b6e50 8
+  s_a5a2d5cd4d114e::t_a5da04ba189db9 1-7,9-20
+actors/deploy.ts
+  s_a5a2d5cd4d114e::t_1b88309202336f 1-117
+actors/reviews/test/fixtures/feefo-thompson-morgan.json
+  s_a5a2d5cd4d114e::t_345da78d1c486f 1-184
+actors/package-lock.json
+  s_a5a2d5cd4d114e::t_952f633d3ef8b1 1-2291
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "8614b4a97592aa05f1d49ba42f26d2560f6cd107",
+  "prompts": {},
+  "sessions": {
+    "s_a5a2d5cd4d114e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b3bfa686-097c-410e-9637-99849f27835f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
