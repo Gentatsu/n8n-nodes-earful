@@ -1,0 +1,30 @@
+actors/reviews/test/google-play.test.ts
+  s_a5a2d5cd4d114e::t_f6fe1c9674fb86 45-46
+  s_a5a2d5cd4d114e::t_dd27db4d7d310f 24
+actors/reviews/test/app-store.test.ts
+  s_a5a2d5cd4d114e::t_41d090eb05911f 45-46
+actors/SCHEMA.md
+  s_a5a2d5cd4d114e::t_bf4e237554a4fc 47-48
+actors/reviews/src/core.ts
+  s_a5a2d5cd4d114e::t_6ab3dff95f71bc 25-26,88-89
+actors/reviews/src/sites/app-store.ts
+  s_a5a2d5cd4d114e::t_eb81f479952c59 14,30-31,44
+actors/reviews/src/sites/google-play.ts
+  s_a5a2d5cd4d114e::t_6e293b31f6ef7c 20-26,44-45,64
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "3b7cc907c15d02def890803cbfec12cbac555935",
+  "prompts": {},
+  "sessions": {
+    "s_a5a2d5cd4d114e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b3bfa686-097c-410e-9637-99849f27835f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
