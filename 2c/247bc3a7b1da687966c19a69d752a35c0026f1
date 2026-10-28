@@ -1,0 +1,21 @@
+app/src/apidocs.mjs
+  s_a5a2d5cd4d114e::t_e546001e31dc6e 292
+app/src/mcp.mjs
+  s_a5a2d5cd4d114e::t_f93922e472ff0f 20-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "2c247bc3a7b1da687966c19a69d752a35c0026f1",
+  "prompts": {},
+  "sessions": {
+    "s_a5a2d5cd4d114e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b3bfa686-097c-410e-9637-99849f27835f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
