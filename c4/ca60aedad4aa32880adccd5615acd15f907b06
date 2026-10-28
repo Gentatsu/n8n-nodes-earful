@@ -1,0 +1,117 @@
+extension/src/lib/ext.js
+  s_a5a2d5cd4d114e::t_b3fb2fdfe43e01 1-4
+extension/src/lib/banner.js
+  s_a5a2d5cd4d114e::t_cf2de723723b23 1-5,7-12,14-15,20,44-45
+  s_a5a2d5cd4d114e::t_32ac643204596d 6,13,16-19,21-43,46-50
+extension/test/core.test.js
+  s_a5a2d5cd4d114e::t_cbfffe5ccd509f 1-13,15-22,24-29,31-44,46-96,98-99
+  s_a5a2d5cd4d114e::t_b94126c30d6f55 45
+  s_a5a2d5cd4d114e::t_8680bafafc55e9 14,23,30,97
+extension/test/manifest.test.js
+  s_a5a2d5cd4d114e::t_9991ab928e98a1 1-62
+extension/src/background.js
+  s_a5a2d5cd4d114e::t_5be4ca88fe58e6 1-21
+extension/scripts/zip.mjs
+  s_a5a2d5cd4d114e::t_56388c0bd648d4 1-72
+extension/test/sites.test.js
+  s_a5a2d5cd4d114e::t_bdaaf99576020a 1-172
+extension/README.md
+  s_a5a2d5cd4d114e::t_2f7ac86ac4f748 1-64
+extension/package.json
+  s_a5a2d5cd4d114e::t_28ef2ad9aa95a2 1-11,15-21
+  s_a5a2d5cd4d114e::t_2dd50c769864cd 13-14
+  s_a5a2d5cd4d114e::t_baad214ea73509 12
+extension/fixtures/tripadvisor/hotel-grace-bay-club.html
+  s_a5a2d5cd4d114e::t_2a10da727b1e80 1-26
+extension/src/sites/tripadvisor.js
+  s_a5a2d5cd4d114e::t_0d06f2c7c8ff62 1-95
+extension/fixtures/booking/hotel-the-savoy.html
+  s_a5a2d5cd4d114e::t_2a10da727b1e80 1-3337
+extension/fixtures/owner/documented-shapes.json
+  s_a5a2d5cd4d114e::t_a97d7506a73439 1-56
+extension/scripts/manifest.mjs
+  s_a5a2d5cd4d114e::t_6c5d32766bbcd6 1-24
+extension/.gitignore
+  s_a5a2d5cd4d114e::t_28ef2ad9aa95a2 1-3
+extension/src/sites/booking.js
+  s_a5a2d5cd4d114e::t_10e6749045fad7 30-34
+  s_a5a2d5cd4d114e::t_70ec24f4495e74 1-29,35-67
+extension/scripts/smoke.mjs
+  s_a5a2d5cd4d114e::t_76e2d2f63cb0de 1-15,17-29,31-56,58-81
+  s_a5a2d5cd4d114e::t_2dd50c769864cd 16
+  s_a5a2d5cd4d114e::t_6483a72182499f 57
+  s_a5a2d5cd4d114e::t_6bbf7d10273b35 30
+extension/src/manifest.template.json
+  s_a5a2d5cd4d114e::t_ca4572c8752468 1-84
+extension/src/lib/review.js
+  s_a5a2d5cd4d114e::t_9f25129da84bf5 1-58
+extension/fixtures/yelp/biz-dishoom-london.html
+  s_a5a2d5cd4d114e::t_2a10da727b1e80 1-235
+extension/fixtures/trustpilot/review-bloomandwild.html
+  s_a5a2d5cd4d114e::t_2a10da727b1e80 1-53
+extension/src/sites/index.js
+  s_a5a2d5cd4d114e::t_40611b839f2fdf 1-43
+extension/src/lib/core.js
+  s_a5a2d5cd4d114e::t_f3dddf2fc5f793 1-139
+extension/src/sites/trustpilot.js
+  s_a5a2d5cd4d114e::t_c083dc6e001dc1 1-52
+extension/scripts/icons.mjs
+  s_a5a2d5cd4d114e::t_278f73e018ee7f 1-13
+extension/scripts/build.mjs
+  s_a5a2d5cd4d114e::t_bed9d8bb59afd5 1-50
+extension/src/sites/yelp.js
+  s_a5a2d5cd4d114e::t_f1720eb94e9298 1-62
+extension/src/sites/google.js
+  s_a5a2d5cd4d114e::t_bf1855908a80dd 1-73
+extension/test/helpers.js
+  s_a5a2d5cd4d114e::t_1c9dcd130d4be2 1-5
+extension/src/popup.html
+  s_a5a2d5cd4d114e::t_ce74aa377bbd01 1-43
+extension/src/lib/format.js
+  s_a5a2d5cd4d114e::t_2d2a003f12a0f8 1-24
+extension/src/popup.js
+  s_a5a2d5cd4d114e::t_1d7937d890c86d 1-56
+extension/src/main-world.js
+  s_a5a2d5cd4d114e::t_3955c9e185c35a 1-29
+extension/test/owner.test.js
+  s_a5a2d5cd4d114e::t_33415e82710265 1-38,40-41
+  s_a5a2d5cd4d114e::t_f2a7f48a0df7c0 39
+extension/src/content.js
+  s_a5a2d5cd4d114e::t_919576d8ab9154 1-124
+extension/src/lib/find-reviews.js
+  s_a5a2d5cd4d114e::t_8f283f1bbcbe5d 1-18,20,22-24,26-28,30-36,38-58
+  s_a5a2d5cd4d114e::t_bc811bcdbb1a94 19,21,25,29,37
+extension/src/lib/api.js
+  s_a5a2d5cd4d114e::t_f01d56c1da1560 1-31
+extension/src/lib/reply.js
+  s_a5a2d5cd4d114e::t_a4df863ce0d935 1-53,55-103
+  s_a5a2d5cd4d114e::t_f2a7f48a0df7c0 54
+extension/src/popup.css
+  s_a5a2d5cd4d114e::t_87496b918a7a23 1-24
+extension/fixtures/tripadvisor/restaurant-lanes-of-london.html
+  s_a5a2d5cd4d114e::t_2a10da727b1e80 1-45
+extension/src/connect.js
+  s_a5a2d5cd4d114e::t_d7340f6394c157 1-15
+extension/test/reply.test.js
+  s_a5a2d5cd4d114e::t_01cc53355394c3 1-54
+extension/fixtures/google/place-reviews-synthetic.html
+  s_a5a2d5cd4d114e::t_c1e7a3e3de894b 1-30
+extension/package-lock.json
+  s_a5a2d5cd4d114e::t_9f35aa20148bbd 1-831
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "c4ca60aedad4aa32880adccd5615acd15f907b06",
+  "prompts": {},
+  "sessions": {
+    "s_a5a2d5cd4d114e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b3bfa686-097c-410e-9637-99849f27835f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
