@@ -1,0 +1,121 @@
+app/test/automation.test.mjs
+  s_a5a2d5cd4d114e::t_03dbe7856ed55e 1-78,86-125,127,129-330
+  s_a5a2d5cd4d114e::t_61db1b9cb81c66 79-85
+  s_a5a2d5cd4d114e::t_709745369e30fa 126,128
+  s_a5a2d5cd4d114e::t_3dddc0ce9d173c 331-393
+app/src/config.mjs
+  s_a5a2d5cd4d114e::t_36fd810b1660b0 55-61
+app/src/reviewlinks.mjs
+  s_a5a2d5cd4d114e::t_ac6e85db7b15cd 1-35
+app/src/ai.mjs
+  s_a5a2d5cd4d114e::t_ec2f32ae054daf 39-67,69-96,102-127
+app/src/automation.mjs
+  s_a5a2d5cd4d114e::t_5aaaecc355505b 1-161
+  s_a5a2d5cd4d114e::t_b380e09d449abf 162-175
+app/src/mcp.mjs
+  s_a5a2d5cd4d114e::t_70ae670c591145 1-123
+  s_a5a2d5cd4d114e::t_16396a46aa088a 124-167
+app/src/apidocs.mjs
+  s_a5a2d5cd4d114e::t_60086f491f44ad 96
+  s_a5a2d5cd4d114e::t_6afd2fc16d1353 141-197
+app/src/server.mjs
+  s_a5a2d5cd4d114e::t_3e1197c4d6e3b1 1675
+  s_a5a2d5cd4d114e::t_d038fe6293f8d9 1446
+  s_a5a2d5cd4d114e::t_2c2ff29a9c312f 25-29
+  s_a5a2d5cd4d114e::t_13aeb7be73b9f1 352
+  s_a5a2d5cd4d114e::t_94ddbd123771cf 54-56
+  s_a5a2d5cd4d114e::t_45f7016aab0893 601
+  s_a5a2d5cd4d114e::t_ea640be365adb5 918-928,933-938
+  s_a5a2d5cd4d114e::t_1786eb142cc3b1 1509-1511
+  s_a5a2d5cd4d114e::t_e444e4dcffeeab 189,192
+  s_a5a2d5cd4d114e::t_121754f83ee406 98-101
+  s_a5a2d5cd4d114e::t_80c9f3aa34a9fc 381,385-386
+  s_a5a2d5cd4d114e::t_ff549aec7ce488 1651-1654
+  s_a5a2d5cd4d114e::t_e2c1689ec1585b 204-240,242-243
+  s_a5a2d5cd4d114e::t_66130edcb5e9ae 1286-1287
+  s_a5a2d5cd4d114e::t_e24c76a3ce4641 1606-1609
+  s_a5a2d5cd4d114e::t_4bbd00b80c205b 505-598,602-609
+  s_a5a2d5cd4d114e::t_d3d174a648fb18 828-833
+  s_a5a2d5cd4d114e::t_eb8dae6f146b32 1689
+  s_a5a2d5cd4d114e::t_f3a1bd32d77185 1435-1438
+  s_a5a2d5cd4d114e::t_3a28f0cee8ccbe 1737
+  s_a5a2d5cd4d114e::t_0a065944d22176 1507-1508,1512-1513
+  s_a5a2d5cd4d114e::t_a247b7b0c16ed0 953-1052,1054-1218,1220-1224,1226-1249
+  s_b55eb36e4fbaaf::t_ee070ed558323f 241,610,1053,1219,1225
+app/src/db.mjs
+  s_a5a2d5cd4d114e::t_c2a9184ad75d65 366
+  s_a5a2d5cd4d114e::t_4ce3c074899fc2 876-977
+  s_a5a2d5cd4d114e::t_21d257dee4bd0d 742,744
+  s_a5a2d5cd4d114e::t_a995cecaaac318 234-253,256-304
+  s_a5a2d5cd4d114e::t_52eb72f8a21ceb 664-666
+  s_a5a2d5cd4d114e::t_7ed68a973d2b9d 675
+  s_a5a2d5cd4d114e::t_9246e55da40cb1 755
+  s_a5a2d5cd4d114e::t_c6563db61d0883 254-255
+  s_a5a2d5cd4d114e::t_db034aac10179b 741,743,745-754,756-758
+app/src/alerts.mjs
+  s_a5a2d5cd4d114e::t_3ec0aeceee8c0e 2-3
+  s_a5a2d5cd4d114e::t_447808b98fd2cd 20-21
+  s_a5a2d5cd4d114e::t_7a9d614cef4d4e 32,35-45,49-57,68-69,76-84,90-116
+app/public/app.css
+  s_a5a2d5cd4d114e::t_07e0a871032f0b 1333-1394
+  s_a5a2d5cd4d114e::t_363c5cd6f9b0f2 679-680
+app/src/slack.mjs
+  s_a5a2d5cd4d114e::t_04bb942de56556 1-41
+  s_a5a2d5cd4d114e::t_50850718e7bc63 42-46
+app/src/api.mjs
+  s_a5a2d5cd4d114e::t_608f46a98ba9a1 59,66-70
+  s_a5a2d5cd4d114e::t_e061874f9ac36f 200-207
+  s_a5a2d5cd4d114e::t_4dfe195ad48494 363
+  s_a5a2d5cd4d114e::t_f6b0ab2ccdaae8 445-563
+  s_a5a2d5cd4d114e::t_7282a6e4530840 183
+  s_a5a2d5cd4d114e::t_fee57a8a76dbf3 146
+  s_a5a2d5cd4d114e::t_5d6b2d8452854f 100-126
+app/src/pages.mjs
+  s_a5a2d5cd4d114e::t_674d247dc50512 53
+  s_a5a2d5cd4d114e::t_a35ce6a24e0aac 262-265
+  s_a5a2d5cd4d114e::t_2f153535ca222a 340
+  s_a5a2d5cd4d114e::t_0e8c8374b0bb9a 715-727
+  s_a5a2d5cd4d114e::t_533030b04cf477 836
+  s_a5a2d5cd4d114e::t_cc800109467a0d 760
+  s_a5a2d5cd4d114e::t_8a1f41806fda11 873-890,895-1024
+  s_a5a2d5cd4d114e::t_9fb7aee26fbff1 637-657,660-666
+  s_a5a2d5cd4d114e::t_72914fde08d925 194,197-200
+  s_a5a2d5cd4d114e::t_7013207f146517 429
+  s_a5a2d5cd4d114e::t_04498818860ac5 374-403
+  s_a5a2d5cd4d114e::t_74c68e427a50f9 559,561-578,583-587,591
+  s_a5a2d5cd4d114e::t_ef23de3ef031e1 780-792
+  s_a5a2d5cd4d114e::t_63c17fa83d30c2 440
+  s_b55eb36e4fbaaf::t_d39eab0aabce7f 579-582,891-894
+app/test/openapi.test.mjs
+  s_a5a2d5cd4d114e::t_b2da2f5d171692 64
+app/openapi.json
+  s_a5a2d5cd4d114e::t_0d4f7f117ed0aa 46-49,54-57,153-156,207-221,231-238,285-288,1133-1141,1206-1208,1290-1292,1400-1402,1663-1665,1739-1743,1766,1812-1835,1854-1861,1898-1902,1969-1973,2080-2084,3508-3517,3519-3532,3534-3570,3574-3591,3594-4812,5230-5238,5261-5263,5393-5418,5430-5434,5621-5637,5640,5981-6205
+app/package-lock.json
+  s_a5a2d5cd4d114e::t_ad7033a809b160 9-10,1421-1426
+app/package.json
+  s_a5a2d5cd4d114e::t_53df78f96bb6e3 15-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "390c8767f85fe10e2bdb42d2f4d99f2d01786d17",
+  "prompts": {},
+  "sessions": {
+    "s_a5a2d5cd4d114e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b3bfa686-097c-410e-9637-99849f27835f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    },
+    "s_b55eb36e4fbaaf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b152851c-1365-4e95-8b84-a5678e40e416",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
