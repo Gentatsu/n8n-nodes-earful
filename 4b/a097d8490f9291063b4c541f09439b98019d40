@@ -1,0 +1,27 @@
+app/test/canary.test.mjs
+  s_a5a2d5cd4d114e::t_291ed79cc64de2 1-42
+app/src/canary.mjs
+  s_a5a2d5cd4d114e::t_7d4ba72ed65daf 1-37,43-62
+  s_a5a2d5cd4d114e::t_dfbd63e92f57f4 38-42
+app/deploy/docker-compose.yml
+  s_a5a2d5cd4d114e::t_210e4f296f51d1 21-22,26-27
+app/src/server.mjs
+  s_a5a2d5cd4d114e::t_4efa3c294c8836 32
+  s_a5a2d5cd4d114e::t_0a7b25a75105a6 2068-2071
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "4ba097d8490f9291063b4c541f09439b98019d40",
+  "prompts": {},
+  "sessions": {
+    "s_a5a2d5cd4d114e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b3bfa686-097c-410e-9637-99849f27835f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
