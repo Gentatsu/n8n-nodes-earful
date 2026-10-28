@@ -1,0 +1,28 @@
+app/test/openapi.test.mjs
+  s_a5a2d5cd4d114e::t_7467b05ec810de 1-76
+app/test/plans.test.mjs
+  s_a5a2d5cd4d114e::t_dd3a37a312471a 116,122-123
+  s_a5a2d5cd4d114e::t_91d003b736f801 75-76
+app/test/api.test.mjs
+  s_a5a2d5cd4d114e::t_544f44e42e0ebe 1-168,173-179,184-203,207-310,314-319,323-434,439-449,455-525,530-548,552-559,565-569,574-584,586-607
+  s_a5a2d5cd4d114e::t_85f1844a7aaa00 169-172,180-183,204-206,311-313,320-322,435-438,450-454,526-529,549-551,560-564,570-573
+  s_a5a2d5cd4d114e::t_e725102321f672 585
+app/test/helpers.mjs
+  s_a5a2d5cd4d114e::t_66cbad27c9a8a6 2-4,8-73
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "ac80d3e4e2e74f3d451321aa1d1179ac24a5d7d6",
+  "prompts": {},
+  "sessions": {
+    "s_a5a2d5cd4d114e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b3bfa686-097c-410e-9637-99849f27835f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
