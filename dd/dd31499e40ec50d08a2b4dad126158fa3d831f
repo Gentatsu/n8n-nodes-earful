@@ -1,0 +1,36 @@
+app/src/webhooks.mjs
+  s_a5a2d5cd4d114e::t_cb2df7fb2be6d9 15-27
+  s_a5a2d5cd4d114e::t_9c9d38d58cd14b 29,31,49-50,57
+HANDOFF.md
+  s_a5a2d5cd4d114e::t_369f78abb5d8d5 123
+app/openapi.json
+  s_a5a2d5cd4d114e::t_f81992e6fd0b17 7,6738,6889,9042-9043,9110-9113,9137,9150-9153,9174
+app/src/api.mjs
+  s_a5a2d5cd4d114e::t_4dbcf8e5296511 511
+app/src/apidocs.mjs
+  s_a5a2d5cd4d114e::t_48b64e31341c6b 268
+app/src/server.mjs
+  s_a5a2d5cd4d114e::t_7c12bc43310a56 113,2035,2199-2201,2237-2238
+app/test/v1-upgrades.test.mjs
+  s_a5a2d5cd4d114e::t_c1ea10eeaf71b1 276-279,283
+sdk/python/earful.py
+  s_a5a2d5cd4d114e::t_e174f71d781639 42-44
+sdk/typescript/earful.ts
+  s_a5a2d5cd4d114e::t_845ae254b72170 550-551,574-575,589-590,1291
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "dddd31499e40ec50d08a2b4dad126158fa3d831f",
+  "prompts": {},
+  "sessions": {
+    "s_a5a2d5cd4d114e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b3bfa686-097c-410e-9637-99849f27835f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
