@@ -1,0 +1,25 @@
+listing/OUTREACH.md
+  s_a5a2d5cd4d114e::t_02ca3015dea589 8-11
+listing/DIRECTORIES.md
+  s_a5a2d5cd4d114e::t_566ef7fc66336d 11-12,18-19,31-32,51-52
+listing/LISTING.md
+  s_a5a2d5cd4d114e::t_566ef7fc66336d 57
+HANDOFF.md
+  s_a5a2d5cd4d114e::t_96ba2b40fa8b74 16-22,53,59-67,72-87,97-99,102-103
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "747010e58b65115e3b761479cd13b1f5861cfd59",
+  "prompts": {},
+  "sessions": {
+    "s_a5a2d5cd4d114e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b3bfa686-097c-410e-9637-99849f27835f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
