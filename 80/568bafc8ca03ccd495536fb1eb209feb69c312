@@ -1,0 +1,14 @@
+site/guides/trustpilot-review-alerts-slack.html
+  h_1daf89ea8a8a75 50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "80568bafc8ca03ccd495536fb1eb209feb69c312",
+  "prompts": {},
+  "humans": {
+    "h_1daf89ea8a8a75": {
+      "author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
