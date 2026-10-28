@@ -1,0 +1,19 @@
+.github/workflows/app.yml
+  s_bde54c3ab2c08d::t_1e022702f4c537 8,11-14,25-26,42-43,66-67,77-80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "2820bf1483c6ceb4ef480e95d7bbbbae6a39e7a3",
+  "prompts": {},
+  "sessions": {
+    "s_bde54c3ab2c08d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e798b3cb-8a70-448f-a48c-7a3c65554df9",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
