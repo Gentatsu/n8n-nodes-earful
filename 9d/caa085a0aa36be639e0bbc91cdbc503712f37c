@@ -1,0 +1,66 @@
+site/pricing.html
+  s_a5a2d5cd4d114e::t_fc201e5840139c 60
+  s_e49e2fe5c846c3::t_4e3865da4b78d8 57
+HANDOFF.md
+  s_a5a2d5cd4d114e::t_471a62e38a60cf 20,148
+site/apps.html
+  s_a5a2d5cd4d114e::t_763647d35e5dc8 59
+site/compare/appbot-alternative.html
+  s_a5a2d5cd4d114e::t_5418263f6790ee 6-8,21-22,29-31,33,36,42-48,52-64,67-70,72-80
+site/compare/appfollow-alternative.html
+  s_a5a2d5cd4d114e::t_352d892da80de3 6-8,20-21,29-31,33,36-37,40,42-47,51,53-56,58-78
+site/compare/birdeye-alternative.html
+  s_a5a2d5cd4d114e::t_15e839af86d5dc 1-89
+site/compare/brightlocal-alternative.html
+  s_a5a2d5cd4d114e::t_256a2f358b73c7 1-86
+site/compare/gatherup-alternative.html
+  s_a5a2d5cd4d114e::t_7e011569550aff 1-88
+site/compare/grade-us-alternative.html
+  s_a5a2d5cd4d114e::t_783da5c1ae5ab9 1-87
+site/compare/index.html
+  s_a5a2d5cd4d114e::t_647c686d7f3624 1-93
+site/compare/local-falcon-alternative.html
+  s_a5a2d5cd4d114e::t_d4e6598ddf34f6 6-8,21,29-31,33,36-37,42-48,52,54-57,59-80
+site/compare/nicejob-alternative.html
+  s_a5a2d5cd4d114e::t_6c66fc330787ad 1-88
+site/compare/podium-alternative.html
+  s_a5a2d5cd4d114e::t_919f490bf3026d 1-86
+site/compare/reviewflowz-alternative.html
+  s_a5a2d5cd4d114e::t_c8177b614f6166 8,37
+site/compare/reviewtrackers-alternative.html
+  s_a5a2d5cd4d114e::t_7173c00b3b2f89 1-87
+site/compare/trustpilot-alternative.html
+  s_a5a2d5cd4d114e::t_b4aee2addad85f 1-88
+site/css/site.css
+  s_a5a2d5cd4d114e::t_ce83096a06473c 262,289-290
+site/partials/footer.html
+  s_a5a2d5cd4d114e::t_25937e60ea12cc 18
+site/scripts/build.mjs
+  s_a5a2d5cd4d114e::t_547d86e6817053 15,30
+site/scripts/check.mjs
+  s_a5a2d5cd4d114e::t_b3b59a14061bcf 34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "9dcaa085a0aa36be639e0bbc91cdbc503712f37c",
+  "prompts": {},
+  "sessions": {
+    "s_a5a2d5cd4d114e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b3bfa686-097c-410e-9637-99849f27835f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    },
+    "s_e49e2fe5c846c3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "agent-aec3d6dc4ca599c57",
+        "model": "unknown"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
