@@ -1,0 +1,26 @@
+site/guides/reviewflowz-alternative.html
+  s_a5a2d5cd4d114e::t_88452349c37d3c 55
+  s_a5a2d5cd4d114e::t_fb820e29410578 82
+site/scripts/check.mjs
+  s_a5a2d5cd4d114e::t_3b130f2aa58ece 6-7
+site/partials/header.html
+  s_a5a2d5cd4d114e::t_da36469003f3d5 8
+site/partials/footer.html
+  s_a5a2d5cd4d114e::t_bd9c4a6d72b3c5 11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "f022cf335bb6b8e4f526d6a8ad37cbf5a4effb17",
+  "prompts": {},
+  "sessions": {
+    "s_a5a2d5cd4d114e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b3bfa686-097c-410e-9637-99849f27835f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
