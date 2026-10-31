@@ -1,0 +1,21 @@
+app/test/tenant.test.mjs
+  s_a5a2d5cd4d114e::t_1392c885d46477 29-39
+app/src/db.mjs
+  s_a5a2d5cd4d114e::t_62c3aa9509c158 563-584,599-601,603,606
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "3f799bad3e1f74e7c4e55207061c139bb7b1fc8d",
+  "prompts": {},
+  "sessions": {
+    "s_a5a2d5cd4d114e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b3bfa686-097c-410e-9637-99849f27835f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
