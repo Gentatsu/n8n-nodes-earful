@@ -1,0 +1,21 @@
+integrations/make/earful.make.json
+  s_a5a2d5cd4d114e::t_2795c1e17adef0 7
+listing/MARKETPLACES.md
+  s_a5a2d5cd4d114e::t_72076556d5067b 37-41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "80c2a7444af53fc729ac8cb5720fcc37ca6db7cf",
+  "prompts": {},
+  "sessions": {
+    "s_a5a2d5cd4d114e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b3bfa686-097c-410e-9637-99849f27835f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
