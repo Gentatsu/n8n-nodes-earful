@@ -1,0 +1,34 @@
+integrations/make/push.py
+  s_b9b8b5c1dfa53f::t_6158315b7adf3c 132-135
+  s_b9b8b5c1dfa53f::t_bcc21cac7b893e 120-123,125
+  s_b55eb36e4fbaaf::t_83b8ef18a9cc98 6,20-29,31-39,124
+integrations/make/earful.make.json
+  s_b9b8b5c1dfa53f::t_d41d11c5f68e12 37,51,78,129-145,147-152,160-161,164-170,172,185-189,195-199,220-224,230-249,252-264,270-284,289-313,319-320,326-327,334,344-347,370-376,382-383,388,390-464,470,484-487,489-490,495-496,503,517-523,525,546-550,556-560,581-585,591-610,613-625,631-645,650-674,680-681,686-690,697-698,726-806,809-872,878-879,887,918-935,956-957,961,963-965,973-975,996-1084
+  s_b9b8b5c1dfa53f::t_f6a17e6017c71c 171,250-251,524,611-612,807-808
+listing/MARKETPLACES.md
+  s_b9b8b5c1dfa53f::t_70735c931f7407 43
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "9ccfbdfc8ce3012559d033835c33a4e4f90896f4",
+  "prompts": {},
+  "sessions": {
+    "s_b55eb36e4fbaaf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b152851c-1365-4e95-8b84-a5678e40e416",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    },
+    "s_b9b8b5c1dfa53f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e0519443-f98e-4f3b-98f2-429e00295e07",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
