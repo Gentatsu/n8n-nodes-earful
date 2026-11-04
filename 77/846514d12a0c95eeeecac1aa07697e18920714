@@ -1,0 +1,25 @@
+app/src/http.mjs
+  s_ef53e0abfeda6f::t_74eb1c2cdc36b8 15
+listing/DIRECTORIES.md
+  s_ef53e0abfeda6f::t_86b923363254a8 29
+site/js/site.js
+  s_ef53e0abfeda6f::t_b51d1118758c2b 1-21
+site/legal-draft.md
+  s_ef53e0abfeda6f::t_c0f876634d0346 52-54
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "77846514d12a0c95eeeecac1aa07697e18920714",
+  "prompts": {},
+  "sessions": {
+    "s_ef53e0abfeda6f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5fd2dcd4-2edb-4a11-a01f-e0445036dbfb",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
