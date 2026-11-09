@@ -1,0 +1,19 @@
+listing/MARKETPLACES.md
+  s_bee52d38e3bf0f::t_c137468862d624 44-45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "bf51461c3ebc432fa2ed20be702b20bb2f2ba337",
+  "prompts": {},
+  "sessions": {
+    "s_bee52d38e3bf0f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ec9aae8a-afae-4277-9641-188dfc30cdc8",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
