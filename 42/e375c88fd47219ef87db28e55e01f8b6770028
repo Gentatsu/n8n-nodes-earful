@@ -1,0 +1,24 @@
+app/src/server.mjs
+  s_7629c982d6f991::t_dd7d75cb22f5c1 1200
+  s_7629c982d6f991::t_a4d101ca670c8b 1123-1125,1128-1131,1207-1211,1878,1883-1890
+app/src/pages.mjs
+  s_7629c982d6f991::t_75402c621e0026 149
+app/test/connect.test.mjs
+  s_7629c982d6f991::t_b9ddfc03b9661f 1-67
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "42e375c88fd47219ef87db28e55e01f8b6770028",
+  "prompts": {},
+  "sessions": {
+    "s_7629c982d6f991": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2962fa3e-65b7-4987-be8e-8c33a875750c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
