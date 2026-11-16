@@ -1,0 +1,29 @@
+app/test/plans.test.mjs
+  s_7629c982d6f991::t_89c98578df0aa5 141-174
+app/public/app.css
+  s_7629c982d6f991::t_1843adea8f8c35 1362
+app/src/pages.mjs
+  s_7629c982d6f991::t_3407c07a06e6b6 84,325,329,333,337
+app/src/server.mjs
+  s_7629c982d6f991::t_32541ac7fb1013 1007-1014
+site/css/site.css
+  s_7629c982d6f991::t_d1e7fb2afd6a9a 214,225,326-327,436-437
+site/design/tokens.css
+  s_7629c982d6f991::t_ecf44a59f46b58 51,116,135
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "beea0ba894bcb2dadd835e742f021523b201f244",
+  "prompts": {},
+  "sessions": {
+    "s_7629c982d6f991": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2962fa3e-65b7-4987-be8e-8c33a875750c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
