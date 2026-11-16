@@ -1,0 +1,73 @@
+design/SCORES.md
+  s_7629c982d6f991::t_834407a849ce91 1-7
+app/public/app.css
+  s_7629c982d6f991::t_2431dfd06bd8a2 1545-1626
+app/public/app.js
+  s_7629c982d6f991::t_c35c1438cbd569 66-89
+app/src/apidocs.mjs
+  s_7629c982d6f991::t_4ff5fa907339f8 113,165,177,183,202,270
+app/src/pages.mjs
+  s_7629c982d6f991::t_a5a163ba83102d 259,506,521,530,879,948
+app/src/server.mjs
+  s_7629c982d6f991::t_6c064e96a457b3 2295-2298,2347-2354
+site/apps.html
+  s_7629c982d6f991::t_716df1d774af99 46,52,56
+site/compare/appbot-alternative.html
+  s_7629c982d6f991::t_bcc6ae74906988 60,70,81
+site/compare/appfollow-alternative.html
+  s_7629c982d6f991::t_d54951725d4c3a 59,69,80
+site/compare/birdeye-alternative.html
+  s_7629c982d6f991::t_b405b1a0537fb0 61,71,82
+site/compare/brightlocal-alternative.html
+  s_7629c982d6f991::t_c874be8392e8bf 61,71,82
+site/compare/gatherup-alternative.html
+  s_7629c982d6f991::t_d28b80eba12a5d 62,72,83
+site/compare/grade-us-alternative.html
+  s_7629c982d6f991::t_cac29c13379d01 61,71,82
+site/compare/index.html
+  s_7629c982d6f991::t_31f6b78d78deec 58,76,80
+site/compare/local-falcon-alternative.html
+  s_7629c982d6f991::t_ecdea5c3bad58e 60,70,81
+site/compare/nicejob-alternative.html
+  s_7629c982d6f991::t_097b2a4a89a21b 61,71,82
+site/compare/podium-alternative.html
+  s_7629c982d6f991::t_8d8f2b6091213b 61,71,82
+site/compare/reviewflowz-alternative.html
+  s_7629c982d6f991::t_b789a0c7766bd0 63,69,73
+site/compare/reviewtrackers-alternative.html
+  s_7629c982d6f991::t_0d6481db534b13 62,72,83
+site/compare/trustpilot-alternative.html
+  s_7629c982d6f991::t_4b668ffcfdacdd 61,71,82
+site/css/site.css
+  s_7629c982d6f991::t_b1d5b1dc86253d 61,236-237,336,408-414
+site/guides/reply-to-google-app-store-play-reviews.html
+  s_7629c982d6f991::t_930534988aa13d 54,68
+site/guides/restaurant-review-management.html
+  s_7629c982d6f991::t_42aad30e82cf1e 57,73,80
+site/guides/trustpilot-review-alerts-slack.html
+  s_7629c982d6f991::t_ef082600799f56 46,50,56
+site/index.html
+  s_7629c982d6f991::t_e9a1820ecd8743 27,30-35,70,80,90,100,110,122,146,158
+site/partials/footer.html
+  s_7629c982d6f991::t_a055d2f7d564f5 2
+site/pricing.html
+  s_7629c982d6f991::t_b600e5490f83bb 103,107
+site/scripts/app-shots.mjs
+  s_7629c982d6f991::t_1c76847b0a1e75 10-12,19,45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "88597df0771a21638688888b1a5b5e935808f37f",
+  "prompts": {},
+  "sessions": {
+    "s_7629c982d6f991": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2962fa3e-65b7-4987-be8e-8c33a875750c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
