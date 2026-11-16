@@ -1,0 +1,46 @@
+extension/design/SCORES.md
+  s_7629c982d6f991::t_9d5b03972fecc6 1-7
+extension/src/popup.css
+  s_7629c982d6f991::t_b64851b462e5c3 7-9
+  s_7629c982d6f991::t_d582164702f21b 14
+  s_7629c982d6f991::t_1ae95bf1e5893a 25
+  s_7629c982d6f991::t_df697fd622b6b7 2-4,6,13,15,17-22,24,26,30-31,37
+  s_7629c982d6f991::t_6c1a09e7f71bc3 23
+  s_7629c982d6f991::t_f140a3a20bff55 32-33
+  s_7629c982d6f991::t_b6e33397826c18 12
+extension/src/lib/banner.js
+  s_7629c982d6f991::t_82519e1477c15b 5-8,11-14,17-18,20-22,27,29-35,39-42,45-60,63,65-66,68-77
+extension/src/lib/format.js
+  s_7629c982d6f991::t_5942576ee7145a 17,19,21
+extension/src/content.js
+  s_7629c982d6f991::t_30eb13eab7af8c 104
+  s_7629c982d6f991::t_d8e2b45f130f56 97
+  s_7629c982d6f991::t_fc09e0dfda93f0 3
+extension/src/popup.js
+  s_7629c982d6f991::t_43b04e3ac4fca9 11,17-20,22,33-37,48-65,76-78,80-84
+extension/test/banner.test.js
+  s_7629c982d6f991::t_ce0ab49a02df58 1-57
+  s_7629c982d6f991::t_b98b0c2c125cae 58-61
+extension/src/popup.html
+  s_7629c982d6f991::t_0a26f1ab5853ac 15-16,26,32,37-40,42-46
+extension/src/lib/core.js
+  s_7629c982d6f991::t_126a5e939b8dba 15-17,33,130,132-138,148-152,154,162
+extension/test/core.test.js
+  s_7629c982d6f991::t_e9af1785592b36 14,24,31-32,160-195
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "0e5c5c54673c1ce2b160437b601a3e597ab83818",
+  "prompts": {},
+  "sessions": {
+    "s_7629c982d6f991": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2962fa3e-65b7-4987-be8e-8c33a875750c",
+        "model": "unknown"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
