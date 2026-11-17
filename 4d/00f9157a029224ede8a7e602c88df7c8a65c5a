@@ -1,0 +1,23 @@
+app/test/api-paging.test.mjs
+  s_f70f8d921da2e0::t_bbe744dbe07505 1-40
+app/src/apis.mjs
+  s_f70f8d921da2e0::t_ab117eb1b03e20 79
+  s_f70f8d921da2e0::t_2e96dd057f6ea3 42-43
+  s_f70f8d921da2e0::t_dc394370d83635 317
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "4d00f9157a029224ede8a7e602c88df7c8a65c5a",
+  "prompts": {},
+  "sessions": {
+    "s_f70f8d921da2e0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e0b9fc24-7a90-4934-9ab4-0802b13e2f8a",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
