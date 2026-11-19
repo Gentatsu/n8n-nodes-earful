@@ -1,0 +1,55 @@
+app/src/pages.mjs
+  s_50ae720e2e3fc8::t_d59d4c2bfa9a97 842,876,1023-1031
+  s_50ae720e2e3fc8::t_9e5681028e131f 429-433
+sdk/typescript/earful.ts
+  s_50ae720e2e3fc8::t_1e422cfd8bf158 616-618,624,826
+sdk/python/earful.py
+  s_50ae720e2e3fc8::t_1e422cfd8bf158 45
+app/src/billing.mjs
+  s_50ae720e2e3fc8::t_d59d4c2bfa9a97 116-123
+app/src/triage.mjs
+  s_50ae720e2e3fc8::t_9e5681028e131f 18,24,66-74
+  s_50ae720e2e3fc8::t_f688101daaa6d7 75
+app/openapi.json
+  s_50ae720e2e3fc8::t_9e5681028e131f 1446,9919,9921,9945-9949,9952
+app/src/server.mjs
+  s_50ae720e2e3fc8::t_d59d4c2bfa9a97 76-78,923,929,931,1477-1491,1906-1909
+  s_50ae720e2e3fc8::t_8e67888628a784 928,930
+  s_50ae720e2e3fc8::t_1e422cfd8bf158 2583
+site/scripts/build.mjs
+  s_50ae720e2e3fc8::t_fb0b0bc6aa26aa 15
+app/src/db.mjs
+  s_50ae720e2e3fc8::t_d59d4c2bfa9a97 2,627-634,769-781
+site/partials/footer.html
+  s_50ae720e2e3fc8::t_d59d4c2bfa9a97 9
+app/test/referrals.test.mjs
+  s_50ae720e2e3fc8::t_5caf774a7538d0 1-4,6-25,27-32
+  s_50ae720e2e3fc8::t_8e67888628a784 5,26
+app/test/triage.test.mjs
+  s_50ae720e2e3fc8::t_1e422cfd8bf158 8-16,156-161
+  s_50ae720e2e3fc8::t_8e67888628a784 103
+  s_50ae720e2e3fc8::t_9e5681028e131f 28,75,107,154-155,162-163,193-199
+app/src/mcp.mjs
+  s_50ae720e2e3fc8::t_9e5681028e131f 27
+site/partners.html
+  s_50ae720e2e3fc8::t_a52a82d841d00a 1-45,47-56,58-72
+  s_50ae720e2e3fc8::t_b92878407bfb37 46,57
+app/src/demo.mjs
+  s_50ae720e2e3fc8::t_1e422cfd8bf158 369
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "40f6d010ba4ec1b0e535b880bca9188e4b07f807",
+  "prompts": {},
+  "sessions": {
+    "s_50ae720e2e3fc8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "31f33633-2e31-43ab-8931-5a1bca27a459",
+        "model": "claude-fable-5-2"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
