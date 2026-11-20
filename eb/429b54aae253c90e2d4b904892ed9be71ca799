@@ -1,0 +1,32 @@
+listing/NEXT.md
+  s_50ae720e2e3fc8::t_a9bd9105c6914b 32
+site/for-software.html
+  s_50ae720e2e3fc8::t_ee2b067cdaa3d2 120
+  s_50ae720e2e3fc8::t_f9b02335481ed2 41
+  s_50ae720e2e3fc8::t_4a17ddc9809bc9 45
+  s_50ae720e2e3fc8::t_93f7bbc9389bc3 32
+  s_50ae720e2e3fc8::t_e7dedd6029f93e 1-27,29-31,33-40,42-44,46-119,121-136
+  s_50ae720e2e3fc8::t_57aa7ef826426f 28
+site/scripts/build.mjs
+  s_50ae720e2e3fc8::t_ed8d058ceb59f0 15
+site/partials/footer.html
+  s_50ae720e2e3fc8::t_9b3babbfd3ce80 12
+site/css/site.css
+  s_50ae720e2e3fc8::t_95a5491533d99e 313-314
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "eb429b54aae253c90e2d4b904892ed9be71ca799",
+  "prompts": {},
+  "sessions": {
+    "s_50ae720e2e3fc8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "31f33633-2e31-43ab-8931-5a1bca27a459",
+        "model": "claude-fable-5-2"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
