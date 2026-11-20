@@ -1,0 +1,23 @@
+integrations/make/push.py
+  s_278092603885b3::t_0823d42795a814 124-126,128
+  s_278092603885b3::t_8f337f8a571eba 127
+integrations/make/earful.make.json
+  s_278092603885b3::t_946ef25225679b 112-117,264-265,297,328-404,581,710-711,743,774-850,884-885,903,1002-1003,1035,1066-1164,1168-1169,1342-1358,1387-1403
+  s_278092603885b3::t_cdb206f27f6e10 177-185,615-623,886-902
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "cb82ff6388b73380c912cc0de9815793b606a99d",
+  "prompts": {},
+  "sessions": {
+    "s_278092603885b3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "46b8b09d-fd14-4e67-95ea-bf86ce03f430",
+        "model": "claude-fable-5-2"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
