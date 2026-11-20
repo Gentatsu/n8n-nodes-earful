@@ -1,0 +1,19 @@
+listing/NEXT.md
+  s_50ae720e2e3fc8::t_d732a0a8623396 32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "c6e67a2510e0445d8c049a110d356eef9efa5f77",
+  "prompts": {},
+  "sessions": {
+    "s_50ae720e2e3fc8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "31f33633-2e31-43ab-8931-5a1bca27a459",
+        "model": "claude-fable-5-2"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
