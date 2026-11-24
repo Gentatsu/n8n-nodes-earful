@@ -1,0 +1,78 @@
+integrations/n8n/nodes/Earful/Earful.node.ts
+  s_11a0217154b722::t_cf88a9361b2b9d 1-280
+integrations/n8n/README.md
+  s_11a0217154b722::t_0f12e2b292ca3e 3-46
+  s_11a0217154b722::t_c802de0cc77876 1-2
+integrations/n8n/nodes/EarfulTrigger/EarfulTrigger.node.ts
+  s_11a0217154b722::t_970d0f31870028 1-151
+  s_11a0217154b722::t_cc71e72237649a 152-158
+integrations/n8n/LICENSE.md
+  s_11a0217154b722::t_522f133e64961d 1-21
+integrations/n8n/test/trigger.mjs
+  s_11a0217154b722::t_fd5646aea6f7d5 54
+  s_11a0217154b722::t_72fe71afc4077d 1-53,55-60
+integrations/n8n/nodes/Earful/getLocations.ts
+  s_11a0217154b722::t_e5a6786a005877 1-9
+integrations/n8n/icons/earful.svg
+  s_11a0217154b722::t_44cbc245706c53 1
+integrations/n8n/credentials/EarfulApi.credentials.ts
+  s_11a0217154b722::t_1dd6548cecab12 1-46
+integrations/n8n/.agents/credentials.md
+  s_11a0217154b722::t_dbfc1b7dc51985 1-115
+integrations/n8n/.agents/nodes-declarative.md
+  s_11a0217154b722::t_ce270fd90f9482 1-106
+integrations/n8n/.agents/nodes-programmatic.md
+  s_11a0217154b722::t_741618acd9d9c4 1-76
+integrations/n8n/.agents/nodes.md
+  s_11a0217154b722::t_421b5e69edacc1 1-196
+integrations/n8n/.agents/properties.md
+  s_11a0217154b722::t_3ac43f5971a910 1-174
+integrations/n8n/.agents/versioning.md
+  s_11a0217154b722::t_4428f800da1364 1-90
+integrations/n8n/.agents/workflow.md
+  s_11a0217154b722::t_28aa8d3b8aa37c 1-97
+integrations/n8n/.github/workflows/ci.yml
+  s_11a0217154b722::t_55b8f47d87190b 1-34
+integrations/n8n/.github/workflows/publish.yml
+  s_11a0217154b722::t_7d15e0bb2eca8e 1-99
+integrations/n8n/.gitignore
+  s_11a0217154b722::t_6102c1ba1379f1 1-2
+integrations/n8n/.prettierrc.js
+  s_11a0217154b722::t_82a7c9c45bd9e8 1-51
+integrations/n8n/.vscode/launch.json
+  s_11a0217154b722::t_fa0dc760354746 1-12
+integrations/n8n/AGENTS.md
+  s_11a0217154b722::t_eaffd5f2358cce 1-104
+integrations/n8n/CHANGELOG.md
+  s_11a0217154b722::t_6f522d9201bcde 1-5
+integrations/n8n/CLAUDE.md
+  s_11a0217154b722::t_9e6a03453ed3d1 1
+integrations/n8n/eslint.config.mjs
+  s_11a0217154b722::t_e556f0b0590c7d 1-3
+integrations/n8n/nodes/Earful/Earful.node.json
+  s_11a0217154b722::t_9cce78b7678a62 1-10
+integrations/n8n/nodes/EarfulTrigger/EarfulTrigger.node.json
+  s_11a0217154b722::t_f8be5c56c18925 1-10
+integrations/n8n/package-lock.json
+  s_11a0217154b722::t_acde46c1bf93b5 1-10571
+integrations/n8n/package.json
+  s_11a0217154b722::t_6ae4617bcc8508 1-56
+integrations/n8n/tsconfig.json
+  s_11a0217154b722::t_f3e404d86e18c4 1-25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "7db422cf00a91c4fae9156f5413fd1196f336016",
+  "prompts": {},
+  "sessions": {
+    "s_11a0217154b722": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "904490ad-55b2-4340-8b01-501c35a6f89e",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
