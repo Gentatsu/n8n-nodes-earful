@@ -1,0 +1,56 @@
+{
+	"name": "n8n-nodes-earful",
+	"version": "0.1.0",
+	"description": "n8n nodes for Earful: watch new reviews from Google, Tripadvisor, Trustpilot and more, search them and reply.",
+	"license": "MIT",
+	"homepage": "https://earful.onibaku.co.uk",
+	"keywords": [
+		"n8n-community-node-package",
+		"earful",
+		"reviews",
+		"review management",
+		"google reviews"
+	],
+	"author": {
+		"name": "Onibaku",
+		"email": "admin@onibaku.co.uk"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Gentatsu/n8n-nodes-earful.git"
+	},
+	"scripts": {
+		"build": "n8n-node build",
+		"build:watch": "tsc --watch",
+		"dev": "n8n-node dev",
+		"lint": "n8n-node lint",
+		"lint:fix": "n8n-node lint --fix",
+		"release": "n8n-node release",
+		"prepublishOnly": "n8n-node prerelease",
+		"test": "node test/trigger.mjs"
+	},
+	"files": [
+		"dist"
+	],
+	"n8n": {
+		"n8nNodesApiVersion": 1,
+		"strict": true,
+		"credentials": [
+			"dist/credentials/EarfulApi.credentials.js"
+		],
+		"nodes": [
+			"dist/nodes/Earful/Earful.node.js",
+			"dist/nodes/EarfulTrigger/EarfulTrigger.node.js"
+		]
+	},
+	"devDependencies": {
+		"@n8n/node-cli": "0.58.5",
+		"eslint": "9.32.0",
+		"prettier": "3.6.2",
+		"release-it": "^21.1.0",
+		"typescript": "5.9.2"
+	},
+	"peerDependencies": {
+		"n8n-workflow": "*"
+	}
+}
